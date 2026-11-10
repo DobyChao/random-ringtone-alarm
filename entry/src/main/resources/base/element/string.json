@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "随机铃声闹钟主模块"
+    },
+    {
+      "name": "ability_desc",
+      "value": "随机铃声闹钟"
+    },
+    {
+      "name": "ability_label",
+      "value": "随机铃声闹钟"
+    }
+  ]
+}

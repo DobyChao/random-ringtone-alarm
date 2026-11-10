@@ -1,0 +1,22 @@
+{
+  "modelVersion": "6.26.9",
+  "dependencies": {
+  },
+  "execution": {
+    // "analyze": "normal",              /* 定义该工程的代码耦合分析选项。 */
+    // "daemon": true,                   /* 定义是否开启编译守护进程。 */
+    // "incremental": true,              /* 定义是否开启增量编译。 */
+    // "parallel": true,                 /* 定义是否开启并行编译。 */
+    // "typeCheck": false,               /* 定义是否开启defaultKit语法检查。 */
+    // "optimizationStrategy": "none"    /* 定义工程的优化策略。 */
+  },
+  "logging": {
+    // "level": "info"                   /* 定义日志等级，值为 "debug" | "info" | "warn" | "error"。 */
+  },
+  "debugging": {
+    // "stacktrace": false               /* 定义是否在Debug模式下生成混淆堆栈符号映射文件。 */
+  },
+  "nodeOptions": {
+    // "maxOldSpaceSize": 8192           /* 用于配置Node.js堆内存大小，单位为M。 */
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "modelVersion": "6.26.9",
+  "description": "随机铃声闹钟：每次响铃从曲库随机抽歌（HarmonyOS NEXT Stage 应用）",
+  "dependencies": {},
+  "devDependencies": {}
+}

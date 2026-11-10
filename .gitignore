@@ -1,0 +1,28 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+**/build-x64
+/.cxx
+# 签名与密钥（切勿入库）
+*.p12
+*.p7b
+*.cer
+*.csr
+*.jks
+*.pem
+*.key
+signing/
+**/keystore-password.txt
+*.hap
+
+# 本机杂项
+.DS_Store
+Thumbs.db

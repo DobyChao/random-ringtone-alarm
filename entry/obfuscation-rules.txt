@@ -1,0 +1,15 @@
+# Define project specific obfuscation rules here.
+# You can include the obfuscation configuration files in the current module.
+#
+# For more details, see
+#   https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/source-obfuscation-V5
+
+# 混淆选项（当前未启用，仅保留模板）：
+# -enable-property-obfuscation
+# -enable-toplevel-obfuscation
+# -enable-filename-obfuscation
+# -enable-export-obfuscation
+
+# 保留选项示例：
+# -keep-global-name
+# -keep-property-name

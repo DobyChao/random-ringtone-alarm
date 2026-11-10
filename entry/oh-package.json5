@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "随机铃声闹钟主模块：闹钟 CRUD、曲库管理、代理提醒调度、响铃页播放",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
